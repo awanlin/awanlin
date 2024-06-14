@@ -4,7 +4,7 @@ I'm André Wanlin a Customer Success Engineer [@spotify](https://github.com/spot
 
 ### Around the Web
 
-- 💼 LinkedIn: [André Wanlin](https://www.linkedin.com/in/andre-wanlin-31a00a16a/)
+- 💼 LinkedIn: [André Wanlin](https://www.linkedin.com/in/andr%C3%A9-wanlin-31a00a16a/)
 - 🎮 Discord: `Ahhhndre`
 
 ### Open Source
