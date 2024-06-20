@@ -18,6 +18,13 @@ Here's my current open source work and responsibilities:
 - Owner of the Backstage [Azure DevOps](https://github.com/backstage/community-plugins/tree/main/workspaces/azure-devops) and [Linguist](https://github.com/backstage/community-plugins/tree/main/workspaces/linguist) plugins in the Backstage Community Plugins repository
 - Actively working on a Backstage Documentation Project Area and Special Interest Group (SIG)
 
+### Backstage Discord
+
+As I mentioned above I'm often on the Backstage Discord Sever helping answer questions. 
+
+- **Office hours:** 7:00-8:00 CST Tuesdays and Thursdays 
+- **Dedicated PR/Issue Reviews:** 12:00-15:00 on Fridays
+
 ### Offline
 
 When I'm offline you can catch me at the local dog park with my Frenchton Bailey 🐶
