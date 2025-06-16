@@ -16,13 +16,13 @@ Here's my current open source work and responsibilities:
 - Owner of the Backstage [DevTools](https://github.com/backstage/backstage/tree/master/plugins/devtools) plugin in the Backstage repository
 - Member of the Backstage [Community Plugins Project Area](https://github.com/backstage/backstage/blob/master/OWNERS.md#:~:text=Discord-,Andr%C3%A9%20Wanlin,-Spotify) and help review [Pull Requests](https://github.com/backstage/community-plugins/pulls) and [Issues](https://github.com/backstage/community-plugins/issues)
 - Owner of the Backstage [Azure DevOps](https://github.com/backstage/community-plugins/tree/main/workspaces/azure-devops) and [Linguist](https://github.com/backstage/community-plugins/tree/main/workspaces/linguist) plugins in the Backstage Community Plugins repository
-- Actively working on a Backstage Documentation Project Area and Special Interest Group (SIG)
+- Member of the Backstage [Documentation Project Area](https://github.com/backstage/backstage/blob/master/OWNERS.md#documentation) and [Documentation Special Interest Group (SIG)](https://github.com/backstage/community/tree/main/sigs/sig-docs)
 
 ### Backstage Discord
 
 As I mentioned above I'm often on the Backstage Discord Sever helping answer questions. 
 
-- **Office hours:** 7:00-8:00 CST Tuesdays and Thursdays 
+- **Office hours:** 7:00-8:00 CST Thursdays and Fridays
 - **Dedicated PR/Issue Reviews:** 12:00-15:00 on Fridays
 
 ### Offline
