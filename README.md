@@ -22,8 +22,8 @@ Here's my current open source work and responsibilities:
 
 As I mentioned above I'm often on the Backstage Discord Sever helping answer questions. 
 
-- **Office hours:** 7:00-8:00 CST Thursdays and Fridays
-- **Dedicated PR/Issue Reviews:** 12:00-15:00 on Fridays
+- **Office hours:** 7:00-8:00 CST Tuesdays and Thursdays
+- **Dedicated PR/Issue Reviews:** 12:00-15:00 CST on Fridays
 
 ### Offline
 
